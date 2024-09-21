@@ -5,6 +5,7 @@ const UseEffectComponent = () => {
     //it is a predefined function
     
     const[count,setCount] = useState(0);
+    
     useEffect(()=>{ 
         
         const fetchdata = async()=>{

@@ -12,11 +12,11 @@ const App = () => {
     <MoneyState>
       {/* <UseReducer/> */}
       {/* <UseEffectComponent/> */}
-      {/* <UseRef/> */}
+      <UseRef/>
       {/* <IndianGovernment/> */}
       {/* <UseLayoutCoponentl/> */}
       {/* <UsecallBackComponent/> */}
-      <UseMemoCompoennt/>
+      {/* <UseMemoCompoennt/> */}
     </MoneyState>
   )
 }
