@@ -10,9 +10,9 @@ import UseMemoCompoennt from './Component/UseMemo/UseMemoCompoennt'
 const App = () => {
   return (
     <MoneyState>
-      {/* <UseReducer/> */}
+      <UseReducer/>
       {/* <UseEffectComponent/> */}
-      <UseRef/>
+      {/* <UseRef/> */}
       {/* <IndianGovernment/> */}
       {/* <UseLayoutCoponentl/> */}
       {/* <UsecallBackComponent/> */}

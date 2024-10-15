@@ -1,4 +1,5 @@
 import React, { useRef } from 'react'
+//It is used to directly manipulate the DOM or React elements
 // when user forgot to fill one thing then we need to focus on that one thing
 //When you pass a ref to a ref attribute in JSX, like <div ref={myRef}> , React will put the corresponding DOM element into myRef.current .
 const UseRef = () => {
